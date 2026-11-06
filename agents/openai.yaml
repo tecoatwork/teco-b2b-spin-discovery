@@ -1,0 +1,4 @@
+interface:
+  display_name: "SPIN需求澄清"
+  short_description: "用SPIN设计B2B需求澄清问题，结合客户实际回答识别需求、影响与验证步骤"
+  default_prompt: "使用 $teco-b2b-spin-discovery。你好，请你告诉我，需要提供什么信息给你。"
